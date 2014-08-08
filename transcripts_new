@@ -1,0 +1,78 @@
+so jonathan (erm) i understand that you are a world leading expert in a fan system and fan blade
+(erm) 
+i have sent you a few questions i would like you to to ask you to try and elicit some of your key knowledge about this this subject
+(er) i i heard that the fan sucks does that mean it is not very good
+a fan does not suck a fan blows
+ok right (ppo)
+i am going to ask you some questions about the f~ the the function of the fan
+what is does how it is made and things like that i think you've seen the questions so i hope you have prepared some good answers and if you don't mind
+i would like to inject some auxiliary questions as we go along so what is the fan for what does it do
+the main purpose of the fan is to provide thrust for the engine which pow~ which then pushes the aircraft forward
+ok and how does it do that
+it does that by (er) forcing air out the back of the engine therefore passing a forward impose on the engine itself
+(ppo) ok and how much (erp) does the would the fan actually consume you know in the in this typical second say
+(er) perhaps about a ton of air per second
+ok
+i heard that (erm)
+every second the fan sucks in an equivalent of a mile in front of it is that is that true
+(ppb) well the fan compresses the air which (erm) which allows it the air to expand behind the engine that's what causes the thrust the force
+(ppo) [oh] ok ok it looks quite a big a big thing how big is it
+the air is well~ different engines of course have different sized fans (erm) typically it's better to have a larger larger fan but you have a slight constraint from the sizes (er) because it is a rotating part and you of course have a radius there (ppb) (erm) the tips of the (erm) of the of the fan blade of course can't get faster than the speed of sound so they are limited to around about six hundred and thirty miles per hour
+(ppo) [oh] ok and what what is it what is what is it made of
+(ppb) o~ over the years different materials have been used to cr~ to to manufacture fan blades (erm) over the past forty years different materials have been used typically lighter materials have been used different methods of manufacturing mea~ have meant the fan blades can be made stronger and lighter with less material so so now fan blades are typically hollow whereas in the past previously they tend to be solid
+[oh]
+ok and wh~ so apart from hollow fan blades what are the types are there do we have solid ones for example
+[yap] so (erm) typically modern trent fan blades tend be what's called wide cord fan blades w. c. (erm) f. b.s (erm) they are very very wide but they have a high they have a large cord (erp) they tend to be hollow with a kind of a mesh structure in between but previously (er) they tended to be solid (er) they were manufactured as solid they they were they had a smaller cord (erm) that meant they could twist and turn so they had to be (erm) you create a feature on the (er) on these fan blades these narrow fan blades called the snubber which meant that two consecutive blades touched in the middle and that stopped them from rotating
+(tsk) ok so these sound like quite complicated pieces of machinery how how are they made
+(erm) well the wide cord fan blades they are made in two facilities one in (erm) (ppb) on the border in between lancashire and yorkshire in u. k. and one here in singapore (erm) modern wide cord fan blades are made with three layers of titanium they are manufactured in a flat (er) as a as a flat sheet and (erm) you have a solid piece of titanium (er) you have a kind of a mesh structure titanium in the middle and you have a solid layer of titanium on top (ppb) you have them shaped cooked in an oven very hot (er) very high temperature and they're inflated and so (er) as they inflate they get the cord (er) the (erm) aerofoil feature the shape that makes (er) them more efficient in slicing and cutting and moving the air and they're twisted into a very very distinctive shape at the same time
+ok and that seems like quite complicated for a designer to so do~ does the designer design it in its in in this three flat plates or does he design its in the way it looks when i see the front of an engine
+(ppb) well different different heights of the of the blade (er) the air needs to do different things so (erm) so the engine has a core and the bypass duct 
+so and typically the most of most of the thrust in an engine is generated from the air being forced (erp) down the bypass duct
+but of course you need actually power the engine (er) we need we need oxygen (er) to make sure the fuel to create the bang which powers the engine 
+so nearer the root of the fan blade you will get a different shape so typically fan blades might be designed in layers of different heights going (er) up the radius to account for different (erm) to account things like foreign object rejection we have debris sand dirt dust larger things like birds you want to make sure that those pass safely down the duct and they don't get sucked into the core of the engine where they can cause more damage
+ok and th~ the you said that these these blades were going very fast somewhere near mach one of speed speed of sound and they are quite big and must be generating a lot of energy do they have a brake do they have a fall off or-
+rolls royce's engines (erm) w~ never (er) (erm)
+(erm)
+i don't think i~ in in real i don't think there's been any incidents off the trent's engines
+i have a fan blade off even although we must test for these (erm) events because they are very very serious 
+these fan blades are cu~ they are travelling like you said very fast they're carrying a lot of energy here (erm) so we must we must make sure that when if when something did go wrong if it ever did it's the engine is (erm) the material that is contained within the engine and the engine can speed down safely
+so we we actually test for this for this condition ok-
+this is done on a fan blade of test so a development engine will be put on a rack (er) and (er) one in the roots of one of the fan blades there would be an explosive charge (ppb) with lots of cameras high speed cameras (erm) the explosive bolt will be fired and the fan blade will be ejected from the engine (ppb) (erm) it's we designed we designed we designed the fan blade cover such that it is wrapped in kevlar so the fan blade should be contained within within the body the core of the engine that we start what's that's what we designed for
+[mmhmm]
+and what is the test looking for presumably this is a very expensive test and failure of such a test could be could be catastrophic to the product's introduction presumably
+abs~ absolutely that's right this i~ we're we're dealing with (er) very very high speed (erm) high energy component so it's very important we keep the we keep the situation as safe as possible
+ok and are there any other systems (er) that may be connected to the fan's system and are affected by such an event
+(erm) yes so (erm) so the fan (erm) so the front of the engine is powered by the low pressure turbine at the rear of the engine (ppb) so (erm) if for example the shaft which connects the fan and the turbine breaks you get what is called a turbine overspeed condition 
+there will be no load on the turbine meaning the turbine will speed up (erm) perhaps beyond its safe operating conditions and of course it must (er) we must we must account for that and make sure that it happens in a safe condition
+ok
+ok and do~ do you ever see foresee how much do these these tests cost
+well (er) these tests are very expensive because typically the engine is written off (er) it's it's a very disruptive test
+ok
+i i had a figure of fifteen million pounds for a test
+it will be at least the price of an engine
+yes ya all of the development engine in fact which is probably a bit bit more and 
+why don't we why don't we just analyze the situation so we just do s~ we've got very sophisticated computer systems can't we just simulate the event and show by computer that it can (er) contain the the fan
+well-
+this is what why we're we're developing systems at the moment which will (erm) which will allow for us to do this in a complete completely modelled simulated environment
+these are very very complex machines in many different aspects they're they're they're we have complex shapes we have complex interactions between different systems bet~ between we have very complex physics happening these are all very difficult aspects to model in real time (erm) since the the disruptive tests are all very expensive we would like to to move towards a more simulated (er) certification
+ok and does it does it depend very much on the operating conditions so if we sell an engine a trent engine to saudi arabia who may be operating in dusty conditions you mentioned birds for example and dust and (er) what did you call it foreign object damage yeah
+foreign object damage so oft~ engines which operate in different conditions different natural environments will tend to be tend to have as~ different s~ slightly different design for its slightly different conditions for example in (er) dusty dusty conditions like saudi arabia you're gonna expect on landing and take off (er) the aircraft engines might ingest a lot of sand a lot of dirt a lot of grits (erm) and that could be very dangerous that could that could change some of the properties of the components within the engine
+(erp) we got to make sure that as much foreign objects have~ (er) expelled from the engine is not sucked in through through the engine 
+there is a famous ex~ case for example of the (erm) of the air~ i think it was a british airways (er) flight which flew through volcanic cloud vol~ with volcanic ash 
+the ash entered the engine (er) went down the core of the engine the ash melted the adhered to the (erm) to the blades changed the shape of the blades made them less efficient and the engine stalled 
+luckily the pilot was able to restart the engine (erm) once th~ he exited the cloud [oh] so we need to make sure these these events are designed for
+ok i'd like to ask you a bit a few more questions about the d~ and particularly just get an idea of what kind of features (er) the fan the fan blade not the fan the whole fan just the fan blade has how would characterise the fan blade in terms of the features the designer most think about
+ok so the fan blade is a very complex shape (erm) it has many different features 
+a fan blade is a type of a blade so you'd expect it to have an edge it cuts it's designed to cut through the air in a very particular way under a very particular conditions (erm) so the fan blade it has a leading edge and a trailing edge the leading edge cuts through the air the trailing edge (erm) (erm) (erm) puts the air back together and and directs the air down the down the (er) the core of the engine 
+the blade also has a tip so th~ the tip of the engine will be spi~ spinning pretty much at the speed of sound 
+(er) very very very closely to the to the to the cover 
+(er) we don't want any air leaking over the top of the blade so that gap needs to be very very small (ppb) 
+the blade needs to be because it has so much kinetic energy the blade needs to be very well secured to its root 
+so (erm) so the so the roots of the of the blade has a very particular high strength str~ strength design
+(erm)
+the blade is pretty much like a wing (erm) it's designed to move the air create a high pressure surface and a low pressure surface so if you look at the blade and on it would look like a wing so you got to design that aerofoil (erm) with very gre~ very great care (erm) 
+(erm) more modern (erm) fan blades they are not a simple straight blade they got they're curved at the axis and they are also bent back along the axis as well
+ok i i heard that (erm) hollow fan blades have something called bond lines which sounded really exciting to me thought james bond might be walking along these lines in a hollow fan blade what ar~ what are they
+so bond line (er) might be the (erm) within the within the blade there are like i mentioned previously there are three layers (erm) (ppb) three layers the mesh which exists between the the top surface and the bottom surface must of course be attached to (erm) one attached to one of them and the mesh inside looks very much like a (erm) si~ similar to the honeycomb structure (erm) where these honeycombs where this honeycomb structure touches the top and below surface it has to be bonded
+ok so i think i am going to draw this into into a close (er) professor butters and i would like to thank you for your time and i think i am going to put this information together in a in a kind of model i would like to bring back there there will be some more detailed questions but that is an excellent general overview thank you very much
+thank you
